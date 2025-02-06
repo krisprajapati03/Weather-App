@@ -14,10 +14,6 @@ A simple weather forecasting app built with **HTML**, **CSS**, and **JavaScript*
 
 You can see a live demo of the app (https://krisprajapati03.github.io/Weather-App/).
 
-## Screenshots
-
-![Weather App Screenshot](./images/screenshot.png)
-
 ## Technologies Used
 
 - **HTML**: For structuring the content of the app.
